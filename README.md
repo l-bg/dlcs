@@ -1,2 +1,2 @@
-# l-bg.github.io/cogsci317
+# l-bg.github.io/dlcs
 ### Webpage of the *Interplay between deep learning and cognitive science* course
